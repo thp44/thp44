@@ -19,7 +19,7 @@ I prefer tools that stay out of the way and let me ship:
 ---
 
 ## 🤖 The Private AI Army
-I have a 100% private obsession with building an AI army. It's not for work, and it's definitely not for my colleagues! it's for me. The goal is to automate my own existence to the point where world domination becomes a low-effort byproduct of me finally getting enough sleep. 
+I have a 100% private obsession with building an AI army. The goal is to automate my own existence to the point where world domination becomes a low-effort byproduct of me finally getting enough sleep. 
 
 ---
 
